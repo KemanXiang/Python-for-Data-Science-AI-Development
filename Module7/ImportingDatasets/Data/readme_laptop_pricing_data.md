@@ -1,7 +1,7 @@
 # Overview of the Laptop Pricing Dataset
 
-The dataset used for practice labs is a modified subset that maps the price of laptops with different attributes.
-The dataset is a filtered and modified version of the Laptop Price Prediction using specifications dataset, available under the Database Contents License (DbCL) v1.0 on the Kaggle website.
+The dataset used for practice labs is a modified subset that maps the price of laptops with different attributes. \
+The dataset is a filtered and modified version of the Laptop Price Prediction using specifications dataset (https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction?resource=download), available under the Database Contents License (DbCL) v1.0 on the Kaggle website.
 
 ## Parameters
 The parameters used in the dataset are:
